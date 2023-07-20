@@ -1,4 +1,4 @@
-# Coffee Page - Site Responsivo 
+# Coffee Page - Design Responsivo 
 
 Com avanço no curso de desenvolvimento front-end que realizo na [Vai na Web](https://vainaweb.com.br), na etapa do CSS, cheguei
 ao aprendizado do recurso @media, utilizado para executar um site responsivo de acordo com o dispositivo utilizado pelo usuário. 
